@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Welcome to the Infusion Project ⚡</strong></h1>
+  <h1><strong>Welcome to the Infusion Github</strong></h1>
 </div>
 
 This is the official GitHub organization for [Infusion](https://infusionbot.xyz) — an upcoming all‑in‑one Discord bot designed to bring smarter automation, community management, and engagement tools to every server.  
